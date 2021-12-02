@@ -41,4 +41,13 @@ print(df.head())
 
 # COMMAND ----------
 
+# MAGIC %md 
+# MAGIC Hello this is a test
+
+# COMMAND ----------
+
+print("hello world")
+
+# COMMAND ----------
+
 
