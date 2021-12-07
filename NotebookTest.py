@@ -50,4 +50,9 @@ print("hello world")
 
 # COMMAND ----------
 
+# MAGIC %md 
+# MAGIC # Hello this is a test
+
+# COMMAND ----------
+
 
